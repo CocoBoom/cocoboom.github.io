@@ -119,7 +119,19 @@
 	    }});
 	    return false;
     });
-
-
     
+    //qrcode
+    $('.qrcodebox-close1,.qrcodebox-close2').on('click',(e)=>{
+        $('.qrcodebox').css('opacity',0)
+        setTimeout(()=>{
+            $('.qrcodebox').toggleClass('show')
+        },300)
+
+    })
+    $('a[title*=Wechat],a[title*=QQ]').on('click',function(e){
+        $('img[alt="qrcode"]').attr('src', `/images/${this.title}.png`)
+        $('.qrcodebox').toggleClass('show')
+        $('.qrcodebox').css('opacity') //解决transition与display冲突
+        $('.qrcodebox').css('opacity',1)
+    })
 })(jQuery);
