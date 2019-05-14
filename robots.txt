@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /categories/
+Allow: /tags/ 
+Allow: /archives/
+Allow: /about/ 
+Disallow: /js/
+Disallow: /images/
+
+Sitemap: https://cocoboom.me/sitemap.xml
+Sitemap: https://cocoboom.me/baidusitemap.xml
