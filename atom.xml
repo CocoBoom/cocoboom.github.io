@@ -5,9 +5,9 @@
   <subtitle>JiangZheng的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://cocoboom.me/"/>
   <updated>2019-05-13T11:21:41.442Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://cocoboom.me/</id>
   
   <author>
     <name>JiangZheng(CocoBoom)</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/posts/4a17b156.html/"/>
-    <id>http://yoursite.com/posts/4a17b156.html/</id>
+    <link href="https://cocoboom.me/posts/4a17b156.html/"/>
+    <id>https://cocoboom.me/posts/4a17b156.html/</id>
     <published>2017-11-26T00:00:00.000Z</published>
     <updated>2019-05-13T11:21:41.442Z</updated>
     
@@ -31,16 +31,16 @@
     
     </summary>
     
-      <category term="开始" scheme="http://yoursite.com/categories/%E5%BC%80%E5%A7%8B/"/>
+      <category term="开始" scheme="https://cocoboom.me/categories/%E5%BC%80%E5%A7%8B/"/>
     
-      <category term="说明" scheme="http://yoursite.com/categories/%E5%BC%80%E5%A7%8B/%E8%AF%B4%E6%98%8E/"/>
+      <category term="说明" scheme="https://cocoboom.me/categories/%E5%BC%80%E5%A7%8B/%E8%AF%B4%E6%98%8E/"/>
     
     
-      <category term="hello" scheme="http://yoursite.com/tags/hello/"/>
+      <category term="hello" scheme="https://cocoboom.me/tags/hello/"/>
     
-      <category term="world" scheme="http://yoursite.com/tags/world/"/>
+      <category term="world" scheme="https://cocoboom.me/tags/world/"/>
     
-      <category term="start" scheme="http://yoursite.com/tags/start/"/>
+      <category term="start" scheme="https://cocoboom.me/tags/start/"/>
     
   </entry>
   
